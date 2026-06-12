@@ -23,4 +23,7 @@
 📍 Location:
 West Bengal, India
 
+📫 Reach me:
+Email: mdzeeshanali08@gmail.com
+
 ⭐ Passionate about coding, learning, and building real-world projects.
