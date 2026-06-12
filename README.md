@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Md Zeeshan Ali 👋
 
-<!--
-**zeeshan-ali-codes/zeeshan-ali-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- Java
+- Data Structures & Algorithms
+- Android Development
+- Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals:
+- Solve 300+ DSA Problems
+- Build 10+ Projects
+- Get a Software Development Internship
+
+🛠 Tech Stack:
+- Java
+- Git & GitHub
+- HTML
+- CSS
+- JavaScript
+
+📍 Location:
+West Bengal, India
+
+⭐ Passionate about coding, learning, and building real-world projects.
